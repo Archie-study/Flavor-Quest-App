@@ -1,0 +1,19 @@
+{
+  "name": "flavor-quest-app",
+  "version": "1.0.0",
+  "description": "The Ultimate Flavor Adventure, Just One Bite!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archie-study/Flavor-Quest-App.git"
+  },
+  "author": "Made Acarya Mordekhai Karang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Archie-study/Flavor-Quest-App/issues"
+  },
+  "homepage": "https://github.com/Archie-study/Flavor-Quest-App#readme"
+}
